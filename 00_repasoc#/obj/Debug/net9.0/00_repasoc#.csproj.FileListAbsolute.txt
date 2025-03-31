@@ -1,0 +1,14 @@
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\bin\Debug\net9.0\00_repasoc#.exe
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\bin\Debug\net9.0\00_repasoc#.deps.json
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\bin\Debug\net9.0\00_repasoc#.runtimeconfig.json
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\bin\Debug\net9.0\00_repasoc#.dll
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\bin\Debug\net9.0\00_repasoc#.pdb
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\00_repasoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\00_repasoc#.AssemblyInfoInputs.cache
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\00_repasoc#.AssemblyInfo.cs
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\00_repasoc#.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\00_repasoc#.dll
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\refint\00_repasoc#.dll
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\00_repasoc#.pdb
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\00_repasoc#.genruntimeconfig.cache
+C:\Users\Vivi\Desktop\prueba1\00_repasoc#\obj\Debug\net9.0\ref\00_repasoc#.dll
